@@ -34,6 +34,7 @@ Aman India.
 * There will be a mix of broken and non-broken rice grains.
 * The grains will not overlap but can touch each other.
 
+<img src="https://i.ibb.co/z5X92Bq/image-1.jpg" alt="image-1" border="0">
 
 # My Approach (Solution)
 ---
@@ -56,6 +57,8 @@ Aman India.
     * For broken rice grains counting: A filter of an average area of broken rice grain.
 
 # Explanation
+<a href="https://www.youtube.com/watch?v=5BAdC-UXpEQ"><img src="https://i.ibb.co/kqg4Jpb/Counting-RIce-Grains.png" alt="Counting-RIce-Grains" border="0"></a>
+## Video Explanation: https://www.youtube.com/watch?v=5BAdC-UXpEQ
 The main Idea behind solving the objectives(Counting rice grains) is to make the provided image in the best possible format. \
 If there would be clarity in the image, and rice grains are well separated from the background image then there would be ease in counting them.
 
