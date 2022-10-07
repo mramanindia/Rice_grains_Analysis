@@ -1,16 +1,17 @@
 Download Data: https://drive.google.com/drive/folders/14ARDU8JgOE9PwjhQN_3ZYMJNGeHsEfRL?usp=sharing
+
 # Counting_rice_grain
-Counting rice grain and detecting the broken rice grains in the image. Solving teh TOuching grain problems using WaterShed algorithm.
+Counting rice grain and detecting the broken rice grains in the image. Solving the Touching grain problems using WaterShed algorithm.
 
 
 ## Note:
 
 This Notebook Aims to solve two objectives:
 * Objective 1: Count the number of rice grains in the Image.
-* Objective 2: Find the number of broken grains in the image.
+* Objective 2: Find the number of broken grains in the Image.
 
 
-Technology used:  Computer Vision, OpenCv, WaterShed Algorithm, Image Preprocessing, Image Segmentation, and others.
+Technology used:  Computer Vision, OpenCv, WaterShed-Algorithm, Image Pre-processing, Image Segmentation, and others.
 The Approach of the objectives are well elucidated and have clear Visualization for better Insights into the working of each notebook cell.
 
 \
@@ -64,7 +65,6 @@ The main Idea behind solving the objectives(Counting rice grains) is to make the
 If there would be clarity in the image, and rice grains are well separated from the background image then there would be ease in counting them.
 
 Then, Solving the Corner cases and hence building the soluction.
-
 
 
 **There are a total 3 major and challenging parts in building solutions:**
