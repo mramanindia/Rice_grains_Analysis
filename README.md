@@ -6,7 +6,7 @@
 * Checking broken rice grains
   
 
-
+Download sample image from here: https://i.ibb.co/JBcXGrW/test-black-full1.jpg
 
 Technology used:  Computer Vision, OpenCV, WaterShed-Algorithm, Image Pre-processing, Image Segmentation, and others.
 The Approach of the objectives are well elucidated and has clear Visualization for better Insights into the working of each notebook cell.
