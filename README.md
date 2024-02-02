@@ -1,14 +1,22 @@
 # Rice Grain Analysis based on individual rice grains dimensions and texture.
 
+## *Want it custom done for you?, Hire me on freelance basis*
+It's tough trying to do everything on your own! Hire a professional!!
+I have successfully served a good number of clients by developing an overall application of Rice grains analysis, please ping me your problem and budget over the mail for getting it custom done for your needs.
+Mail: amanindiamuzz@gmail.com.
+
+Identifying the overall quality of rice grains for the Government of India. "The rice mill owners"!!
+
+
 ## This Notebook Aims to solve the following objectives:
 * Getting dimensions of Individual rice grains
 * Solving the Touching rice grains problem
 * Checking broken rice grains
   
 
-Download sample image from here: https://i.ibb.co/JBcXGrW/test-black-full1.jpg
+Download the sample image from here: https://i.ibb.co/JBcXGrW/test-black-full1.jpg
 
-Technology used:  Computer Vision, OpenCV, WaterShed-Algorithm, Image Pre-processing, Image Segmentation, and others.
+The technology used:  Computer Vision, OpenCV, WaterShed-Algorithm, Image Pre-processing, Image Segmentation, and others.
 The Approach of the objectives are well elucidated and has clear Visualization for better Insights into the working of each notebook cell.
 
 \
